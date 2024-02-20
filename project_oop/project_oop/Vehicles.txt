@@ -1,0 +1,6 @@
+ElectricCar Tesla 666 4 0 500 1000 90
+Car BMW 222 4 0 Diesel 
+Car Citroen 555 4 0 Fuel
+ElectricCar Porche 444 4 0 400 900 100
+ElectricCar Citroen 333 3 0 150 500 70
+Car Renault 111 4 0 Diesel 
